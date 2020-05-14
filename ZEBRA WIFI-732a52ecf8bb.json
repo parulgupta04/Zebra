@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "zebra-wifi",
+  "private_key_id": "732a52ecf8bb75a7203899b670b11bd91f57bd5a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOHdBHzJXRXNt8\nidJESKl+leDI8BIp/iR2DEZ0JEePnk+GfFl5Pg/3U9Q9Kcbvjn/bk1Ol1C1/+TV0\ntQT4H5lscFJFaFGZyj6olrrztj9xGo58JR5zXBv26W4sh4vwSKFx0DENWFhLaXsW\niRKEMft/5s2yHXvl/PBom7jUI5OXt0GwaoIBtqvu8IW4GRlvoHSNFPX99gl5e02q\nk4G+pubbe8Saok4dKD3Y8+Rl9BImWKXYOpgpW3oopTl/bIZe0QQ622/T+Mm7pJ2h\nGJKPrZylmPMQ7/qk1Ruiy9gW5aQZ2wkvPJ7pa13AJqkY1nFI8AqPMxcQM7rV8CrE\nhFhXkapvAgMBAAECggEAVY+Qt01Y37kBL7hyfYAARBjpX+AwWhgygIJl+K5aumaI\nMpaJ+cdmj0/QKbee6jCoKLkGny7t2FLV+uVt86YCZT5XGJLOVN3cltVDNAnyWfwh\nK62o71BMF3odDwURdSRhSEKZKiYDOQLHYrpx4khxU023E3ojxXvzPClwVzeRfAeK\nuA+yIeGqq4xWnsQFFxvkXRSm0qqMMR0d5Joc6I0bBiLU9Wr2JrO3bboHCjN38fEo\n9Xdcdj5Xw+XkzG2SqoDqFkz5i8ikf+IgqDyBelQ3fd7ASP3+m70F9wjlcBfLLXjn\n3inPiYKX/5w5F1PUcqDnFmudjB9dXXm3Ln5zXRQ4uQKBgQDueBK/8Vq52HBq7XP2\nRcK19rMyV1ngi3xyopkpqYEfR8MuoOtzNRaLqc+LwvKk7NjzNjGvpNRzilGfW8eo\n/aiqXRAOAYe/IM0H2no+sMMDSSCh1OkrN6IsGd6e1GqqtQMjOegg6ZHl/q1O3H+Z\nj9QZAN6UPpzZqYPwR8qpuWJHHQKBgQDdRN+BYh/1/bRzeu04NmtaBcvrdjEfP/t1\nYJBdC3u8H2x8alpn0zCDPiMk2eYgdCQjmpt1+RnNseSriQ1tnaY2z931fvkIV2w4\njBYl9fR9np7IubuNdI+jAKR1+SyMZR2OvG47QEKLfJcqkZXh8o3azxLuyrrz/FYz\n6sKkTK3l+wKBgB7f0uWg9PMcz6k4ZwwaihQPBbJd1tgYlxssbBIVzQ7ktqOB2BoJ\nZIreiG165vltZMVQXex0tcDjxp+QPXBmrwCnnd2CWzXmpEUBB1S4g/cX766kJzAe\nOtPk4YrEy66gUvCrnZ8tPmN9rqiIKckS8w3tq+Obm6kepmNkmBuTUeMNAoGAX9MZ\n8FBsgv3SjkhoP3Xh2+SywVA4Sc5NujGNk54LghchxmfQqzIcylm4opbzQI7Lr9ef\nB+JPOHOYEmmSNSyW9RnkiBLrCp/BsGOKm/n+XgC5xzgYb1RReEgo8SZuEocf29bi\n7ioQJ5RXawoNnQKMSHxxOJT3jf5z3pwGm1zR2s0CgYEAiOTIGUkTnKuYvTiQ87le\n9r81weIfRE3PgIZovY0RH4JAthl5m5h/SMkmxLZXUuW9hVY75zMOxbd27FICwTZp\nfZAQLFrFsn1jjA5ic2JWiGUlsdw83hChV2TPcOQhSwBx0qaWv4gRDTM20AffoMWm\nj7R6id9rKBfldP6Zp30Z2H4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "translation@zebra-wifi.iam.gserviceaccount.com",
+  "client_id": "114858268449159807248",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translation%40zebra-wifi.iam.gserviceaccount.com"
+}
